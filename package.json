@@ -3,8 +3,8 @@
   "version": "1.1.11_b1",
   "description": "Server for hypertunnel, a TCP/IP relay to expose local services on the internet.",
   "main": "index.js",
-  "repository": "berstend/hypertunnel",
-  "author": "berstend & tewarid",
+  "repository": "PhoGGy/hypertunnel-server",
+  "author": "PhoGGy",
   "license": "MIT",
   "scripts": {
     "docs": "exit 0",
